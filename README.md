@@ -19,3 +19,4 @@ or
 ### `react-native run-android`
 
 Project print:
+![fundo](https://user-images.githubusercontent.com/47576846/64380306-19572200-d007-11e9-8f8d-249e253063b2.png)
